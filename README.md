@@ -2,7 +2,6 @@
 
 Arc Matka is a wallet-based card result game built around scheduled sessions, clear bet types and published card result rules
 
-Public website: _Coming soon_
 
 ## Repository Scope
 
