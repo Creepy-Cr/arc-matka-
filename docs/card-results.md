@@ -6,7 +6,7 @@ Arc Matka results are based on three revealed cards
 
 - Ace = 1
 - 2 to 9 = same value
-- 10, J, Q and K = 0
+- 10, J, Q and K = 10
 
 ## Final Result Number
 
@@ -18,7 +18,7 @@ The three card values are added. The last digit of the total is the final result
 
 Cards: 2, 5 and 7
 
-Calculation: `2 + 5 + 7 = 14`
+Total: `2 + 5 + 7 = 14`
 
 Final result: `4`
 
@@ -26,7 +26,7 @@ Final result: `4`
 
 Cards: A, 9 and K
 
-Calculation: `1 + 9 + 0 = 10`
+Total: `1 + 9 + 10 = 20`
 
 Final result: `0`
 

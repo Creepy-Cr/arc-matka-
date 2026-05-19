@@ -12,9 +12,9 @@ Card values follow the same public calculation rules every time:
 
 - Ace = 1
 - 2 to 9 = same value
-- 10, J, Q and K = 0
+- 10, J, Q and K = 10
 
-The values are added and the last digit becomes the final result
+The final result is the last digit of the total
 
 ## Wallet-Linked Bets
 

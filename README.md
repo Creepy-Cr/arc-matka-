@@ -80,13 +80,13 @@ Three cards are revealed. Each card is converted to a digit value:
 
 - Ace = 1
 - 2 to 9 = same value
-- 10, J, Q and K = 0
+- 10, J, Q and K = 10
 
 The three values are added. The last digit of the total is the final result number
 
 Example: `2 + 5 + 7 = 14`, result `4`
 
-Example: `A + 9 + K = 10`, result `0`
+Example: `A + 9 + K = 20`, result `0`
 
 ## Fairness Overview
 
